@@ -11,6 +11,7 @@
 		EAA4A8612B1562B500CBD04D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA4A8602B1562B500CBD04D /* ContentView.swift */; };
 		EAA4A8632B1562B700CBD04D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAA4A8622B1562B700CBD04D /* Assets.xcassets */; };
 		EAA4A8662B1562B700CBD04D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAA4A8652B1562B700CBD04D /* Preview Assets.xcassets */; };
+		EAA4A8722B158AAB00CBD04D /* HostSelecter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA4A8712B158AAB00CBD04D /* HostSelecter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EAA4A8602B1562B500CBD04D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EAA4A8622B1562B700CBD04D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAA4A8652B1562B700CBD04D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EAA4A8712B158AAB00CBD04D /* HostSelecter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostSelecter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EAA4A85E2B1562B500CBD04D /* HostrApp.swift */,
 				EAA4A8602B1562B500CBD04D /* ContentView.swift */,
+				EAA4A8712B158AAB00CBD04D /* HostSelecter.swift */,
 				EAA4A8622B1562B700CBD04D /* Assets.xcassets */,
 				EAA4A8642B1562B700CBD04D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAA4A8612B1562B500CBD04D /* ContentView.swift in Sources */,
+				EAA4A8722B158AAB00CBD04D /* HostSelecter.swift in Sources */,
 				EAA4A85F2B1562B500CBD04D /* HostrApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
